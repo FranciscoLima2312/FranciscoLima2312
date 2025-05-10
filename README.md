@@ -26,8 +26,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNpY3M5Z2JnYmY1a2E0b3Bmb
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" /> <br>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
-</div>
+  </div>
 <hr style="border: 1px solid #BC47F7;">
