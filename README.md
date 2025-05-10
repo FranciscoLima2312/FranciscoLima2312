@@ -7,7 +7,7 @@
 
   <h3 align="left">👋Olá, eu sou o Francisco</h3>
 
-<p align="left">🎓 Estudante do Ensino Fundamental II <br>🎯 Foco em HTML, CSS, JavaScript, Python<br>🎮 Formado pelo programa **Ctrl+Young** da [Ctrl+Play](https://ctrlplay.com.br) <br> 👀 Curiosidade:Leitor Autônomo📖 <br> 
+<p align="left">🎓 Estudante do Ensino Fundamental II <br>🎯 Foco em HTML, CSS, JavaScript, Python<br>🎮 Formado pelo programa Ctrl+Young da [Ctrl+Play]<br> 👀 Curiosidade:Leitor Autônomo📖 <br> 
 </p>
 
 <br clear="both">
@@ -29,7 +29,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNpY3M5Z2JnYmY1a2E0b3Bmb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" /> <br>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
 </div>
